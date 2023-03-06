@@ -1,0 +1,41 @@
+* {
+  /* background-color: black; */
+  box-sizing: border-box;
+  margin: 0px;
+}
+body {
+  background-color: black;
+  color: white;
+}
+.navbar {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  /* background-color: blueviolet; */
+}
+.navbar-goto {
+  /* color: red; */
+  margin: 0px 5rem;
+  display: flex;
+  justify-content: space-around;
+}
+.navbar h2 {
+  font-size: 1.5rem;
+}
+.intro{
+    /* background-color: blue; */
+    height: 90vh;
+    text-align: center;
+    display: flex;
+   
+}
+.intro-right{
+    /* background-color: red; */
+    width: 50%;
+    padding-top: 10rem;
+    height: 70%;
+    align-self: center;
+}
+.intro-left{
+    /* background-color: green; */
+    width: 50%;
+}
