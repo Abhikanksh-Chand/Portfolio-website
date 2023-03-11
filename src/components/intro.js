@@ -1,5 +1,5 @@
 import Lottie from "lottie-react";
-import introAnimation from "../introanimation.json";
+import introAnimation from "../assets/introanimation.json";
 
 function intro() {
   return (

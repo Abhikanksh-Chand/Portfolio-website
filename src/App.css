@@ -39,3 +39,35 @@ body {
     /* background-color: green; */
     width: 50%;
 }
+
+.about-me {
+  margin: 0 5rem auto;
+  height: 95vh;
+  margin-top: 90px;
+
+}
+.about-me-container {
+  display: flex;
+}
+.about-me-img img {
+  width: 450px;
+  /* border-radius: 20px; */
+}
+.about-me-content {
+  /* color: #a8dff1; */
+  display: flex;
+  font-size: 2rem;
+  align-items: center;
+  margin-left: 40px;
+  word-spacing: 1px;
+  width: 50%;
+}
+
+.about-me-heading {
+  /* color: #73b0cd; */
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  line-height: 0.2rem;
+  padding-bottom: 4rem;
+}
